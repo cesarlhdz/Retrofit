@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/option_menu_list_images"
+        android:title="API"
+        android:icon="@drawable/ic_baseline_airplay_24"
+        app:showAsAction="always"
+        ></item>
+
+    <item
+        android:id="@+id/option_menu_list_images"
+        android:title="2da"
+        android:icon="@drawable/ic_baseline_airplay_24"
+        app:showAsAction="ifRoom"
+        ></item>
+
+    <item
+        android:id="@+id/option_menu_list_images"
+        android:title="3era"
+        android:icon="@drawable/ic_baseline_airplay_24"
+        app:showAsAction="ifRoom"
+        ></item>
+
+    <item
+        android:id="@+id/option_menu_list_images"
+        android:title="4ta"
+        android:icon="@drawable/ic_baseline_airplay_24"
+        app:showAsAction="ifRoom"
+        ></item>
+
+
+
+</menu>
